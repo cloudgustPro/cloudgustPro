@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaleb Asnake</h1>
-<h3 align="center">Frontend Developer  ||  AI Engineer — building clean, fast web experiences from Addis Ababa 🇪🇹</h3>
+<h3 align="center">Frontend Developer  ||  AI Enthusiast — building clean, fast web experiences from Addis Ababa 🇪🇹</h3>
 
 <p align="center">
   <a href="https://caleb.naputechnology.com">🌐 Portfolio</a> &nbsp;•&nbsp;
@@ -15,7 +15,7 @@
 - 🎨 I'm a **frontend developer** who builds responsive, modern interfaces with **React** and **Next.js**, styled with **Tailwind CSS**.
 - 🤖 Exploring the intersection of **AI** and web development.
 - 🎓 Studying at **Mekelle University**.
-- 🛠️ Currently sharpening my skills across the full frontend stack and dipping into backend work with **Laravel**.
+- 🛠️ Currently sharpening my skills across the full frontend stack and dipping into backend work with **PHP**.
 - 💬 Ask me about React, Next.js, Tailwind, or anything UI.
 
 ---
@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cloudgustPro&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com?user=cloudgustPro&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
