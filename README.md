@@ -46,17 +46,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cloudgustPro&show_icons=true&theme=tokyonight&hide_border=true" alt="cloudgustPro's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloudgustPro&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=cloudgustPro&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
----
-
 <p align="center">💡 <em>Always learning, always building. Let's connect!</em></p>
