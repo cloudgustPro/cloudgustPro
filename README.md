@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaleb Asnake</h1>
-<h3 align="center">Frontend Developer  ||  AI Enthusiast — building clean, fast web experiences from Addis Ababa 🇪🇹</h3>
+<h3 align="center">Frontend Developer  ||  AI Engineer building clean, fast web experiences from Addis Ababa 🇪🇹</h3>
 
 <p align="center">
   <a href="https://caleb.naputechnology.com">🌐 Portfolio</a> &nbsp;•&nbsp;
