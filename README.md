@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+clean%2C+fast+web+experiences;React+%2B+Next.js+%2B+TypeScript;Exploring+AI+%2F+TensorFlow;Shipping+from+Addis+Ababa+🇪🇹;Always+learning%2C+always+building;&font=Fira+Code&center=true&width=600&height=45&color=2563EB&vCenter=true&size=22&pause=1200" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+clean%2C+fast+web+experiences;React+%2B+Next.js+%2B+TypeScript;AI+Engineer+%7C+Machine+Learning;Shipping+from+Addis+Ababa+🇪🇹;Always+learning%2C+always+building;&font=Fira+Code&center=true&width=600&height=45&color=2563EB&vCenter=true&size=22&pause=1200" />
 </p>
 
 <p align="center">
@@ -24,12 +24,12 @@
 <summary><b>🚀 About Me</b></summary>
 <br>
 
-- 🎨 I'm a **frontend developer** who builds responsive, modern interfaces with **React**, **Next.js**, and **TypeScript**, styled with **Tailwind CSS**.
-- 🤖 Exploring the intersection of **AI / Machine Learning** and web development — currently learning **TensorFlow**.
-- 🎓 Studying at **Mekelle University**.
-- 🛠️ Sharpening my full frontend stack and dipping into backend work with **PHP** and **Node.js**.
-- 💬 Ask me about React, Next.js, TypeScript, Tailwind, or anything UI.
-- ⚡ Fun fact: I like turning messy ideas into clean, animated interfaces — like this README 😉
+- 🎨 I'm a **Frontend Developer** who builds responsive, modern interfaces with **React**, **Next.js**, and **TypeScript**, styled with **Tailwind CSS**.
+- 🤖 Building intelligent solutions with **AI / Machine Learning**, integrating them into modern web applications.
+- 🎓 Graduated from **Mekelle University** with a **BSc in Computer Science**.
+- 🛠️ Expanding my expertise across the full stack with **PHP**, **Node.js**, and modern backend technologies.
+- 💬 Ask me about **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, UI/UX, or AI integration.
+- ⚡ Fun fact: I enjoy turning complex ideas into clean, interactive user experiences.
 
 </details>
 
@@ -75,14 +75,19 @@
 <details open>
 <summary><b>🐍 Contribution Snake</b></summary>
 <br>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cloudgustPro/cloudgustPro/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cloudgustPro/cloudgustPro/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/cloudgustPro/cloudgustPro/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/cloudgustPro/cloudgustPro/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-<p align="center"><sub>⚙️ Powered by a GitHub Action that eats your contribution graph — see <code>snake.yml</code> below to enable it.</sub></p>
+
+<p align="center">
+  <sub>⚙️ Powered by a GitHub Action that generates your contribution snake automatically.</sub>
+</p>
+
 </details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:38bdf8&height=3&section=header" width="100%"/>
@@ -94,9 +99,9 @@
 | Project | Description | Built With |
 | --- | --- | --- |
 | [**NextJS Tailwind E-commerce**](https://github.com/cloudgustPro/NextJS_tailwind_e-commerce_Frontend) | An e-commerce storefront frontend | Next.js · Tailwind |
-| [**reactWeb**](https://github.com/cloudgustPro/reactWeb) | A collection of web apps built with React & Tailwind | React · Tailwind |
-| [**keeper**](https://github.com/cloudgustPro/keeper) | A daily activity tracker to create and manage tasks | React · Tailwind |
-| [**job-listing-react**](https://github.com/cloudgustPro/job-listing-react-) | A job listing interface built in React | React |
+| [**reactWeb**](https://github.com/cloudgustPro/reactWeb) | A collection of modern web applications | React · Tailwind |
+| [**keeper**](https://github.com/cloudgustPro/keeper) | Daily task and productivity tracker | React · Tailwind |
+| [**job-listing-react**](https://github.com/cloudgustPro/job-listing-react-) | Responsive job listing interface | React |
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=cloudgustPro&repo=NextJS_tailwind_e-commerce_Frontend&theme=tokyonight&hide_border=true" />
@@ -107,13 +112,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:38bdf8&height=3&section=header" width="100%"/>
 
-<details>
-<summary><b>💭 Random Dev Quote</b> <sub>(click to expand — refreshes on reload)</sub></summary>
-<br>
+## 💭 Random Dev Quote
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
-</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:38bdf8&height=3&section=header" width="100%"/>
 
@@ -126,6 +129,8 @@
   <a href="https://instagram.com/cloudgust">📸 Instagram</a>
 </p>
 
-<p align="center">💡 <em>Always learning, always building. Let's connect!</em></p>
+<p align="center">
+  💡 <em>Always learning, always building. Let's connect!</em>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:2563eb,100:0f172a&height=120&section=footer&animation=twinkling" />
